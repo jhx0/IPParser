@@ -1,0 +1,11 @@
+C:\Users\x\source\repos\IPParser\IPParser\bin\Release\IPParser.exe.config
+C:\Users\x\source\repos\IPParser\IPParser\bin\Release\IPParser.exe
+C:\Users\x\source\repos\IPParser\IPParser\bin\Release\IPParser.pdb
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.MainFrm.resources
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.Properties.Resources.resources
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.csproj.GenerateResource.cache
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.exe
+C:\Users\x\source\repos\IPParser\IPParser\obj\Release\IPParser.pdb
